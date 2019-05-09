@@ -1,9 +1,11 @@
 =====================
-A Translation of the New Testament from the original Greek&#13;Humbly Attempted with a View to Assist the Unlearned with Clearer and More Explicit Views of the Mind of the Spirit in the Scriptures of Truth
+A Translation of the New Testament from the original Greek
+Humbly Attempted with a View to Assist the Unlearned with Clearer and More Explicit Views of the Mind of the Spirit in the Scriptures of Truth
 =====================
 
 
-This is a git repository of the source files for the book A Translation of the New Testament from the original Greek&#13;Humbly Attempted with a View to Assist the Unlearned with Clearer and More Explicit Views of the Mind of the Spirit in the Scriptures of Truth by Haweis, Thomas. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book A Translation of the New Testament from the original Greek
+Humbly Attempted with a View to Assist the Unlearned with Clearer and More Explicit Views of the Mind of the Spirit in the Scriptures of Truth by Haweis, Thomas. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
 ===============
